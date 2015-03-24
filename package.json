@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/karma start"
+    "test": "./node_modules/karma/bin/karma start"
   },
   "engines": {
     "node": "v0.10.x",
