@@ -19,6 +19,7 @@
     "express-session": "^1.10.3",
     "jade": "^1.9.1",
     "jshint": "^2.6.3",
+    "karma": "^0.12.31",
     "mongoose": "^3.8.22",
     "morgan": "^1.5.1",
     "passport": "^0.2.1",
